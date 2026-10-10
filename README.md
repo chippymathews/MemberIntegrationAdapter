@@ -6,7 +6,6 @@ to the JSON format expected by the legacy membership system.
 The function currently returns the mapped payload and does not call a live legacy API.
 
 ## Prerequisites
- 
 - .NET 8 SDK
 - Azure Functions Core Tools v4
 - Node.js/npm
